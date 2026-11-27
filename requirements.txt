@@ -1,0 +1,22 @@
+# Datos y análisis
+pandas
+numpy
+scipy
+pyarrow
+duckdb
+
+# Visualización
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+lightgbm
+xgboost
+shap
+
+# Desarrollo
+jupyter
+pytest
+ruff
