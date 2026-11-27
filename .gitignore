@@ -221,3 +221,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datos 
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Modelos y artefactos
+models/
+mlruns/
+*.pkl
+*.joblib
+
+# Entornos y editores
+.env
+.vscode/
+.idea/
+.ipynb_checkpoints/
